@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 0b7b504c26c479f43b65d97237300333
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Fruit seller(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube355
+      parentName: Fruit seller(Clone)
+      position: {x: -0.12248827, y: 15.135693, z: -16.57735}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.00064353016, y: 0.00021258157, z: 0.00030718723}
+    - name: polySurface136
+      parentName: pCube355
+      position: {x: -8113.087, y: -16572.043, z: -3.774915e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform183
+      parentName: polySurface136
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface137
+      parentName: pCube355
+      position: {x: -7594.663, y: -16572.043, z: -3.4048256e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform182
+      parentName: polySurface137
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube357
+      parentName: Fruit seller(Clone)
+      position: {x: -0.018638745, y: 15.146549, z: -16.457745}
+      rotation: {x: 0, y: -0.11436336, z: -0, w: 0.993439}
+      scale: {x: 0.0011227356, y: 0.00021258157, z: 0.00030718723}
+    - name: polySurface138
+      parentName: pCube357
+      position: {x: -4528.622, y: -16572.043, z: 3861.9792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform181
+      parentName: polySurface138
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface139
+      parentName: pCube357
+      position: {x: -4461.282, y: -16572.043, z: 3804.5522}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform180
+      parentName: polySurface139
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube403
+      parentName: Fruit seller(Clone)
+      position: {x: -4.510337, y: 14.896977, z: -16.573029}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.00099641, y: 0.00099641, z: 0.00099641}
+    - name: polySurface140
+      parentName: pCube403
+      position: {x: -857.32544, y: -3535.6038, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform176
+      parentName: polySurface140
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface141
+      parentName: pCube403
+      position: {x: -415.90475, y: -3535.6038, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform175
+      parentName: polySurface141
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube457
+      parentName: Fruit seller(Clone)
+      position: {x: -5.150094, y: 10.881422, z: -16.620491}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.0037053789, y: 0.0037053789, z: 0.0037053789}
+    - name: transform179
+      parentName: pCube457
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube458
+      parentName: Fruit seller(Clone)
+      position: {x: -5.221016, y: 11.585549, z: -16.45065}
+      rotation: {x: 0, y: -0.08360882, z: -0, w: 0.99649864}
+      scale: {x: 0.00064353016, y: 0.00021258157, z: 0.00030718723}
+    - name: transform178
+      parentName: pCube458
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube459
+      parentName: Fruit seller(Clone)
+      position: {x: -5.0597887, y: 11.585549, z: -16.45065}
+      rotation: {x: 0, y: 0.13689095, z: -0, w: 0.99058616}
+      scale: {x: 0.00064353016, y: 0.00021258157, z: 0.00030718723}
+    - name: transform177
+      parentName: pCube459
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube460
+      parentName: Fruit seller(Clone)
+      position: {x: -5.216752, y: 11.750789, z: -16.505836}
+      rotation: {x: -0.20916757, y: 0.17620318, z: -0.2222562, w: 0.9358438}
+      scale: {x: 0.00091829954, y: 0.00091829954, z: 0.00091829954}
+    - name: transform174
+      parentName: pCube460
+      position: {x: -57.213356, y: -22.40659, z: -17.970835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube461
+      parentName: Fruit seller(Clone)
+      position: {x: -5.2001977, y: 11.723883, z: -16.476969}
+      rotation: {x: -0.29057938, y: 0.30988726, z: -0.20896026, w: 0.8808344}
+      scale: {x: 0.0007897258, y: 0.0007897258, z: 0.0007897258}
+    - name: transform173
+      parentName: pCube461
+      position: {x: -57.213352, y: -22.40659, z: -17.970835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube462
+      parentName: Fruit seller(Clone)
+      position: {x: -5.096679, y: 11.750789, z: -16.458294}
+      rotation: {x: -0.404939, y: 0.5365995, z: 0.06199841, w: 0.7377273}
+      scale: {x: 0.0007390471, y: 0.0007390471, z: 0.0007390471}
+    - name: transform172
+      parentName: pCube462
+      position: {x: -57.213352, y: -22.40659, z: -17.970835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube463
+      parentName: Fruit seller(Clone)
+      position: {x: -5.050354, y: 11.76923, z: -16.517765}
+      rotation: {x: -0.3317267, y: 0.72398925, z: 0.078253426, w: 0.59972787}
+      scale: {x: 0.0005508615, y: 0.0005508615, z: 0.0005508615}
+    - name: transform171
+      parentName: pCube463
+      position: {x: -57.213356, y: -22.40659, z: -17.970835}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface136
+      parentName: Fruit seller(Clone)
+      position: {x: 0.09253168, y: 7.3003225, z: -17.916956}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: polySurface142
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform197
+      parentName: polySurface142
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface143
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform196
+      parentName: polySurface143
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface144
+      parentName: polySurface136
+      position: {x: -10.024933, y: 84.66617, z: 56.83545}
+      rotation: {x: 0.34450406, y: 0.008990627, z: -0.1663201, w: 0.92389053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform195
+      parentName: polySurface144
+      position: {x: 523.9655, y: -1163.1151, z: 1604.3301}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface145
+      parentName: polySurface136
+      position: {x: 9.370682, y: 86.689735, z: 56.83545}
+      rotation: {x: -0.6313166, y: 0.10598925, z: 0.45104602, w: 0.6219029}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform194
+      parentName: polySurface145
+      position: {x: 504.5699, y: -1163.1151, z: 1604.3301}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface146
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform193
+      parentName: polySurface146
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface147
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform192
+      parentName: polySurface147
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface148
+      parentName: polySurface136
+      position: {x: 7.961685, y: 80.14322, z: 56.274902}
+      rotation: {x: 0.34766057, y: 0.017383028, z: -0.09705898, w: 0.9324214}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform191
+      parentName: polySurface148
+      position: {x: 505.97888, y: -1158.5922, z: 1604.8906}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface149
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform190
+      parentName: polySurface149
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface150
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform189
+      parentName: polySurface150
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface151
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform188
+      parentName: polySurface151
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface152
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform187
+      parentName: polySurface152
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface153
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform186
+      parentName: polySurface153
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface154
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform185
+      parentName: polySurface154
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: transform184
+      parentName: polySurface136
+      position: {x: 513.9406, y: -1078.449, z: 1661.1655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface142
+      parentName: Fruit seller(Clone)
+      position: {x: 0.09253174, y: 7.319668, z: -17.707376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
